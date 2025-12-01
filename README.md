@@ -14,7 +14,7 @@ h = []
 h_dis = []
 r_code = []
 err = []
-col = int(input("Enter the Parity bits : "))
+col = int(input("Enter the Parity bits : ")).
 row = int(input("Enter the Message bits : "))
 # Generator matrix
 for i in range (row):
